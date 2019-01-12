@@ -1,9 +1,9 @@
 ﻿namespace lesson12
 {
     // Euclidean algorithm
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
         }
     }

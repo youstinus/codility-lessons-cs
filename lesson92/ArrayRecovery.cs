@@ -1,6 +1,6 @@
 ﻿namespace lesson92
 {
-    class ArrayRecovery
+    internal class ArrayRecovery
     {
     }
 }

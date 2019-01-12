@@ -1,6 +1,6 @@
 ﻿namespace lesson5
 {
-    class PassingCars
+    internal class PassingCars
     {
     }
 }

@@ -1,9 +1,9 @@
 ﻿namespace lesson14
 {
     // Binary search algorithm
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
         }
     }

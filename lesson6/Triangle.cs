@@ -1,6 +1,6 @@
 ﻿namespace lesson6
 {
-    class Triangle
+    internal class Triangle
     {
     }
 }

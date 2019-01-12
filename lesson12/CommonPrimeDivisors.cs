@@ -1,6 +1,6 @@
 ﻿namespace lesson12
 {
-    class CommonPrimeDivisors
+    internal class CommonPrimeDivisors
     {
     }
 }

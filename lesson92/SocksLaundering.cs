@@ -1,6 +1,6 @@
 ﻿namespace lesson92
 {
-    class SocksLaundering
+    internal class SocksLaundering
     {
     }
 }

@@ -1,9 +1,9 @@
 ﻿namespace lesson10
 {
     // Prime and composite numbers
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
         }
     }

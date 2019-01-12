@@ -1,6 +1,6 @@
 ﻿namespace lesson91
 {
-    class HilbertMaze
+    internal class HilbertMaze
     {
     }
 }

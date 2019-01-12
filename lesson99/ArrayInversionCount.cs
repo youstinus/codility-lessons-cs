@@ -1,6 +1,6 @@
 ﻿namespace lesson99
 {
-    class ArrayInversionCount
+    internal class ArrayInversionCount
     {
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace lesson14
 {
-    class NailingPlanks
+    internal class NailingPlanks
     {
     }
 }

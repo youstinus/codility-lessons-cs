@@ -1,6 +1,6 @@
 ﻿namespace lesson10
 {
-    class Peaks
+    internal class Peaks
     {
     }
 }

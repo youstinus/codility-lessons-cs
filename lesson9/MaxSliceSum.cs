@@ -1,6 +1,6 @@
 ﻿namespace lesson9
 {
-    class MaxSliceSum
+    internal class MaxSliceSum
     {
     }
 }

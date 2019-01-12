@@ -1,6 +1,6 @@
 ﻿namespace lesson5
 {
-    class CountDiv
+    internal class CountDiv
     {
     }
 }

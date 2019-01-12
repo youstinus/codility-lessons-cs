@@ -1,10 +1,12 @@
 ﻿namespace lesson4
 {
     // Counting Elements
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
+            var test1 = new MaxCounters();
+            test1.Solution1(5, new int[] { 3, 4, 4, 6, 1, 4, 4 });
         }
     }
 }

@@ -2,9 +2,9 @@
 
 namespace challenge1_rubidium_2018
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             var test1 = new Demo();
             test1.Solution(new int[] {1, 3, 6, 4, 1, 2});

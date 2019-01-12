@@ -1,6 +1,6 @@
 ﻿namespace lesson16
 {
-    class TieRopes
+    internal class TieRopes
     {
     }
 }

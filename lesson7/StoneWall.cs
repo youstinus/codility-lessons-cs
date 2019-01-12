@@ -1,6 +1,6 @@
 ﻿namespace lesson7
 {
-    class StoneWall
+    internal class StoneWall
     {
     }
 }

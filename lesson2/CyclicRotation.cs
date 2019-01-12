@@ -28,16 +28,16 @@ In your solution, focus on correctness. The performance of your solution will no
 
 namespace lesson2
 {
-    class CyclicRotation
+    internal class CyclicRotation
     {
         // 100%
         public int[] Solution(int[] A, int K)
         {
-            int[] array = new int[A.Length];
+            var array = new int[A.Length];
             if (A.Length > 0)
             {
-                int k = K % A.Length;
-                for (int i = 0; i < A.Length; i++)
+                var k = K % A.Length;
+                for (var i = 0; i < A.Length; i++)
                 {
                     array[(i + k) % A.Length] = A[i];
                 }

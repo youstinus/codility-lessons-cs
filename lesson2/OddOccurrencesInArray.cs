@@ -28,13 +28,13 @@ using System.Linq;
 
 namespace lesson2
 {
-    class OddOccurrencesInArray
+    internal class OddOccurrencesInArray
     {
         // 100%
         public int Solution(int[] A)
         {
             var array = A.OrderBy(x => x).ToArray();
-            for (int i = 0; i < array.Length - 1; i += 2)
+            for (var i = 0; i < array.Length - 1; i += 2)
             {
                 if (array[i] != array[i + 1])
                 {

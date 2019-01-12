@@ -1,6 +1,6 @@
 ﻿namespace lesson90
 {
-    class LongestPassword
+    internal class LongestPassword
     {
     }
 }

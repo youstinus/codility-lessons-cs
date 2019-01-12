@@ -3,14 +3,14 @@
 namespace lesson6
 {
     // 62%
-    class NumberOfDiscIntersections
+    internal class NumberOfDiscIntersections
     {
         public int Solution(int[] A)
         {
             var index = 0;
             for (var i = 0; i < A.Length; i++)
             {
-                for (int k = 0; k < A.Length; k++)
+                for (var k = 0; k < A.Length; k++)
                 {
                     var dist = Math.Abs(i - k);
                     long a = A[i];

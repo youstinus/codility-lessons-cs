@@ -1,6 +1,6 @@
 ﻿namespace lesson12
 {
-    class ChocolatesByNumbers
+    internal class ChocolatesByNumbers
     {
     }
 }

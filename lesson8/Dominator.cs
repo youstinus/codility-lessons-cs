@@ -1,6 +1,6 @@
 ﻿namespace lesson8
 {
-    class Dominator
+    internal class Dominator
     {
     }
 }

@@ -1,9 +1,9 @@
 ﻿namespace lesson90
 {
     // Tasks from Indeed Prime 2015 challenge
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
         }
     }

@@ -26,7 +26,7 @@ using System;
 
 namespace challenge1_rubidium_2018
 {
-    class Challenge
+    internal class Challenge
     {
         // 100% Correctness, 12% Performance, 50% Task Score
         public int Solution1(int[] X, int[] Y)

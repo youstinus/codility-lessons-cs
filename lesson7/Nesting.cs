@@ -1,6 +1,6 @@
 ﻿namespace lesson7
 {
-    class Nesting
+    internal class Nesting
     {
     }
 }

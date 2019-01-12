@@ -1,6 +1,6 @@
 ﻿namespace lesson15
 {
-    class MinAbsSumOfTwo
+    internal class MinAbsSumOfTwo
     {
     }
 }

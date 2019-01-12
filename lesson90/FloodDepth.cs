@@ -1,6 +1,6 @@
 ﻿namespace lesson90
 {
-    class FloodDepth
+    internal class FloodDepth
     {
     }
 }

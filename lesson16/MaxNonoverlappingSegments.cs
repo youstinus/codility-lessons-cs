@@ -1,6 +1,6 @@
 ﻿namespace lesson16
 {
-    class MaxNonoverlappingSegments
+    internal class MaxNonoverlappingSegments
     {
     }
 }

@@ -3,9 +3,9 @@
 namespace lesson1
 {
     // Iterations
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             var test1 = new BinaryGap();
             test1.Solution(1041);

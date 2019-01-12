@@ -1,6 +1,6 @@
 ﻿namespace lesson13
 {
-    class Ladder
+    internal class Ladder
     {
     }
 }

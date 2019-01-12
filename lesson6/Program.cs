@@ -3,9 +3,9 @@
 namespace lesson6
 {
     // Sorting
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             var a = new NumberOfDiscIntersections();
             a.Solution(new[] { 1, 2147483647, 0 });

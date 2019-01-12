@@ -1,6 +1,6 @@
 ﻿namespace lesson6
 {
-    class Distinct
+    internal class Distinct
     {
     }
 }

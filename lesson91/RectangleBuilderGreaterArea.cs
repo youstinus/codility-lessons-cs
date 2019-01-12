@@ -1,6 +1,6 @@
 ﻿namespace lesson91
 {
-    class RectangleBuilderGreaterArea
+    internal class RectangleBuilderGreaterArea
     {
     }
 }

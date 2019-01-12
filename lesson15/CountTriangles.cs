@@ -1,6 +1,6 @@
 ﻿namespace lesson15
 {
-    class CountTriangles
+    internal class CountTriangles
     {
     }
 }

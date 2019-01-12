@@ -1,6 +1,6 @@
 ﻿namespace lesson10
 {
-    class Flags
+    internal class Flags
     {
     }
 }

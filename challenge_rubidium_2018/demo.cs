@@ -15,7 +15,7 @@ using System.Linq;
 namespace challenge1_rubidium_2018
 {
     // Rubidium 2018
-    class Demo
+    internal class Demo
     {
         // 100%
         public int Solution(int[] A)

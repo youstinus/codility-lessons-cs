@@ -1,11 +1,11 @@
 ﻿namespace lesson7
 {
     // 25%
-    class Brackets
+    internal class Brackets
     {
         public int Solution(string S)
         {
-            int finals = 0;
+            var finals = 0;
             if (string.IsNullOrWhiteSpace(S))
                 finals = 1;
 

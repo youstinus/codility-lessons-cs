@@ -1,6 +1,6 @@
 ﻿namespace lesson99
 {
-    class StrSymmetryPoint
+    internal class StrSymmetryPoint
     {
     }
 }

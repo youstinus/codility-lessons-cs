@@ -1,6 +1,6 @@
 ﻿namespace lesson90
 {
-    class SlalomSkiing
+    internal class SlalomSkiing
     {
     }
 }

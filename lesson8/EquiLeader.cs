@@ -1,6 +1,6 @@
 ﻿namespace lesson8
 {
-    class EquiLeader
+    internal class EquiLeader
     {
     }
 }

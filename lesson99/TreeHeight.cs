@@ -1,6 +1,6 @@
 ﻿namespace lesson99
 {
-    class TreeHeight
+    internal class TreeHeight
     {
     }
 }

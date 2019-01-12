@@ -1,9 +1,9 @@
 ﻿namespace lesson5
 {
     // Prefix Sums
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
         }
     }

@@ -1,6 +1,6 @@
 ﻿namespace lesson14
 {
-    class MinMaxDivision
+    internal class MinMaxDivision
     {
     }
 }

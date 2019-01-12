@@ -1,6 +1,6 @@
 ﻿namespace lesson7
 {
-    class Fish
+    internal class Fish
     {
     }
 }

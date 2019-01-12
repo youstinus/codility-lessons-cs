@@ -1,6 +1,6 @@
 ﻿namespace lesson17
 {
-    class NumberSolitaire
+    internal class NumberSolitaire
     {
     }
 }

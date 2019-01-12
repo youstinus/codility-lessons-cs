@@ -1,6 +1,6 @@
 ﻿namespace lesson91
 {
-    class TreeProduct
+    internal class TreeProduct
     {
     }
 }

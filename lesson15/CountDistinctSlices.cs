@@ -1,6 +1,6 @@
 ﻿namespace lesson15
 {
-    class CountDistinctSlices
+    internal class CountDistinctSlices
     {
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace lesson11
 {
-    class CountNonDivisible
+    internal class CountNonDivisible
     {
     }
 }

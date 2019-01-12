@@ -20,7 +20,7 @@ using System;
 
 namespace lesson1
 {
-    class BinaryGap
+    internal class BinaryGap
     {
         // 100%
         public int Solution(int N)
