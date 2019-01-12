@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace lesson6
 {
@@ -11,6 +7,9 @@ namespace lesson6
     {
         static void Main(string[] args)
         {
+            var a = new NumberOfDiscIntersections();
+            a.Solution(new[] { 1, 2147483647, 0 });
+            Console.ReadKey();
         }
     }
 }

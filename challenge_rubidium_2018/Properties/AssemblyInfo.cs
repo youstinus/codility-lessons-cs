@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("lesson5")]
+[assembly: AssemblyTitle("challenge_rubidium_2018")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("lesson5")]
+[assembly: AssemblyProduct("challenge_rubidium_2018")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("23e5ac8f-7b66-4b27-808e-2cab59d8b6a6")]
+[assembly: Guid("b1ec8d77-491d-45da-827c-dd708daf2997")]
 
 // Version information for an assembly consists of the following four values:
 //

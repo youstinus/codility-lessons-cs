@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3C42B0F3-99E9-4454-8285-67C6B23D0B2B}</ProjectGuid>
+    <ProjectGuid>{B1EC8D77-491D-45DA-827C-DD708DAF2997}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>lesson1</RootNamespace>
-    <AssemblyName>lesson1</AssemblyName>
+    <RootNamespace>challenge1_rubidium_2018</RootNamespace>
+    <AssemblyName>challenge1_rubidium_2018</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BinaryGap.cs" />
+    <Compile Include="Challenge.cs" />
+    <Compile Include="Demo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
