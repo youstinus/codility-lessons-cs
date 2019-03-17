@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{77FC10E0-1E08-4699-9675-9F96B443FC6B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>challenge_strontium_2019</RootNamespace>
-    <AssemblyName>challenge_strontium_2019</AssemblyName>
+    <RootNamespace>Strontium2019</RootNamespace>
+    <AssemblyName>Strontium2019</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

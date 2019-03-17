@@ -12,7 +12,7 @@ each element of array A is an integer within the range [−1,000,000..1,000,000]
 
 using System.Linq;
 
-namespace challenge1_rubidium_2018
+namespace Rubidium2018
 {
     // Rubidium 2018
     internal class Demo

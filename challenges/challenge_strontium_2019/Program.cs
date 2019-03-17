@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace challenge_strontium_2019
+namespace Strontium2019
 {
     class Program
     {

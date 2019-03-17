@@ -1,11 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Collections.Specialized;
 using System.Diagnostics;
 using System.Linq;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
 
 /*A company has employed N developers (numbered from 0 to N−1) and wants to divide them into two teams.
  The first is a front-end team with F developers. The second is a back-end team with N−F developers.

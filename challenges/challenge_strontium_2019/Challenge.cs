@@ -24,7 +24,7 @@ S denotes the sum of the lengths of words; S is an integer within the range [1..
 using System;
 using System.Linq;
 
-namespace challenge_strontium_2019
+namespace Strontium2019
 {
     class Challenge
     {

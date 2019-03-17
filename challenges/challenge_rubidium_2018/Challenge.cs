@@ -24,7 +24,7 @@ no two sheep are standing in the same position.*/
 
 using System;
 
-namespace challenge1_rubidium_2018
+namespace Rubidium2018
 {
     internal class Challenge
     {

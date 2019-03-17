@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{B1EC8D77-491D-45DA-827C-DD708DAF2997}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>challenge1_rubidium_2018</RootNamespace>
-    <AssemblyName>challenge1_rubidium_2018</AssemblyName>
+    <RootNamespace>Rubidium2018</RootNamespace>
+    <AssemblyName>Rubidium2018</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

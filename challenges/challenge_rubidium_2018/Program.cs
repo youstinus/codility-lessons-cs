@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace challenge1_rubidium_2018
+namespace Rubidium2018
 {
     internal class Program
     {
