@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson99", "lesson99\lesson
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "challenge_rubidium_2018", "challenge_rubidium_2018\challenge_rubidium_2018.csproj", "{B1EC8D77-491D-45DA-827C-DD708DAF2997}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "challenge_strontium_2019", "challenge_strontium_2019\challenge_strontium_2019.csproj", "{77FC10E0-1E08-4699-9675-9F96B443FC6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zirconium2019", "Zirconium2019\Zirconium2019.csproj", "{53F6B942-72AF-46C4-A5C5-588EE6FE5CBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{B1EC8D77-491D-45DA-827C-DD708DAF2997}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1EC8D77-491D-45DA-827C-DD708DAF2997}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1EC8D77-491D-45DA-827C-DD708DAF2997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77FC10E0-1E08-4699-9675-9F96B443FC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77FC10E0-1E08-4699-9675-9F96B443FC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77FC10E0-1E08-4699-9675-9F96B443FC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77FC10E0-1E08-4699-9675-9F96B443FC6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53F6B942-72AF-46C4-A5C5-588EE6FE5CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F6B942-72AF-46C4-A5C5-588EE6FE5CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F6B942-72AF-46C4-A5C5-588EE6FE5CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F6B942-72AF-46C4-A5C5-588EE6FE5CBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
