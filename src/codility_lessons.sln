@@ -45,15 +45,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson92", "lessons\lesson9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson99", "lessons\lesson99\lesson99.csproj", "{DF9C23EB-3D8D-4C4B-ACE7-60520CDA30C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubidium2018", "challenges\challenge_rubidium_2018\Rubidium2018.csproj", "{B1EC8D77-491D-45DA-827C-DD708DAF2997}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubidium2018", "challenges\Rubidium2018\Rubidium2018.csproj", "{B1EC8D77-491D-45DA-827C-DD708DAF2997}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strontium2019", "challenges\challenge_strontium_2019\Strontium2019.csproj", "{77FC10E0-1E08-4699-9675-9F96B443FC6B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strontium2019", "challenges\Strontium2019\Strontium2019.csproj", "{77FC10E0-1E08-4699-9675-9F96B443FC6B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zirconium2019", "challenges\Zirconium2019\Zirconium2019.csproj", "{53F6B942-72AF-46C4-A5C5-588EE6FE5CBF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "challenges", "challenges", "{FF4607A3-8859-4805-979A-500A73806829}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lessons", "lessons", "{0F923C30-028C-499C-971A-377B99399183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASML2019", "challenges\ASML2019\ASML2019.csproj", "{235583E0-7EF2-4435-9D32-2C6FE566391A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -157,6 +159,10 @@ Global
 		{53F6B942-72AF-46C4-A5C5-588EE6FE5CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53F6B942-72AF-46C4-A5C5-588EE6FE5CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53F6B942-72AF-46C4-A5C5-588EE6FE5CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{235583E0-7EF2-4435-9D32-2C6FE566391A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235583E0-7EF2-4435-9D32-2C6FE566391A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235583E0-7EF2-4435-9D32-2C6FE566391A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235583E0-7EF2-4435-9D32-2C6FE566391A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -186,6 +192,7 @@ Global
 		{B1EC8D77-491D-45DA-827C-DD708DAF2997} = {FF4607A3-8859-4805-979A-500A73806829}
 		{77FC10E0-1E08-4699-9675-9F96B443FC6B} = {FF4607A3-8859-4805-979A-500A73806829}
 		{53F6B942-72AF-46C4-A5C5-588EE6FE5CBF} = {FF4607A3-8859-4805-979A-500A73806829}
+		{235583E0-7EF2-4435-9D32-2C6FE566391A} = {FF4607A3-8859-4805-979A-500A73806829}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F97E3407-79EB-42D8-8A6F-8FBCBAA29781}
